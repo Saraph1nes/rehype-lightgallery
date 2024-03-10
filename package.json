@@ -1,0 +1,20 @@
+{
+  "name": "rehype-lightgallery",
+  "version": "0.0.1-beta",
+  "description": "A rehype light gallery plugin",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rehype-plugin",
+    "rehype",
+    "plugin"
+  ],
+  "author": "Saraph1nes",
+  "license": "ISC",
+  "dependencies": {
+    "unist-util-visit": "^5.0.0"
+  }
+}
