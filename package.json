@@ -1,6 +1,6 @@
 {
   "name": "rehype-lightgallery",
-  "version": "0.0.2-beta",
+  "version": "1.0.0",
   "description": "A rehype light gallery plugin",
   "type": "module",
   "main": "index.js",
